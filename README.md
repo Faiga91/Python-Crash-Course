@@ -1,5 +1,6 @@
-# Python-Crash-Course
-Based on the book Python Crash Course by Eric Matthes
+# Python Crash Course
+
+_Based on the book Python Crash Course by Eric Matthes_
 
 You will need Python 3 and Python Juypter Notebook to make this code work. 
 

@@ -3,6 +3,6 @@ Based on the book Python Crash Course by Eric Matthes
 
 You will need Python 3 and Python Juypter Notebook to make this code work. 
 
-* To install Python on your machine (python.org/downloads/)[https://www.python.org/downloads/]
-* To install Python Notebook (jupyter.org/install)[https://jupyter.org/install]
-* 
+* To install Python on your machine, follow the instructions from here: https://www.python.org/downloads/
+* To install Python Notebook, follow the instructions from here:  https://jupyter.org/install
+ 
